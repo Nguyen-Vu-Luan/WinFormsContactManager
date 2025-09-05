@@ -1,7 +1,7 @@
 # 📒 WinForms Contact Manager
 
 Ứng dụng **Quản lý danh bạ** viết bằng **C# WinForms**.  
-Dự án cá nhân WinForms với mục đích học tập và thực hành, quản lý dữ liệu cơ bản bằng JSON/CSV.
+Dự án cá nhân với mục đích học tập và thực hành cùng Winforms, quản lý dữ liệu cơ bản bằng JSON/CSV.
 
 ---
 
