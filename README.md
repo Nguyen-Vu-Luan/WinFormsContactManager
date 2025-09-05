@@ -1,7 +1,7 @@
 # 📒 WinForms Contact Manager
 
 Ứng dụng **Quản lý danh bạ** viết bằng **C# WinForms**.  
-Dự án này là một phần học tập và thực hành lập trình WinForms, quản lý dữ liệu cơ bản bằng JSON/CSV.
+Dự án này là một phần học tập và thực hành WinForms, quản lý dữ liệu cơ bản bằng JSON/CSV.
 
 ---
 
@@ -30,13 +30,13 @@ Dự án này là một phần học tập và thực hành lập trình WinForm
 
 ```
 WinFormsContactManager/
-│── Contact.cs             # Class Contact (Model)
-│── ContactService.cs      # Xử lý lưu trữ JSON/CSV
-│── MainForm.cs            # Code chính của WinForms
-│── MainForm.Designer.cs   # UI Designer
-│── Program.cs             # Điểm khởi chạy
-│── data.json              # File dữ liệu JSON
-│── contacts.csv           # File CSV (export/import)
+│── Contact.cs
+│── ContactService.cs
+│── MainForm.cs
+│── MainForm.Designer.cs
+│── Program.cs
+│── data.json
+│── contacts.csv
 │── WinFormsContactManager.csproj
 ```
 
@@ -70,12 +70,6 @@ WinFormsContactManager/
 
 ---
 
-## 📸 Giao diện
-
-(Chèn hình ảnh UI ví dụ ở đây)
-
----
-
 ## 📌 Ghi chú
 
 - Đây là project học tập, dữ liệu chỉ lưu **cục bộ** (không có database).
@@ -85,7 +79,3 @@ WinFormsContactManager/
   - Thêm tính năng **phân trang, lọc nâng cao**
 
 ---
-
-## 📜 Bản quyền
-
-Dự án được tạo cho mục đích học tập. Bạn có thể tự do sử dụng và chỉnh sửa.
