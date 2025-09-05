@@ -46,7 +46,7 @@ WinFormsContactManager/
 
 1. Clone project về máy:
    ```bash
-   git clone https://github.com/<your-username>/WinFormsContactManager.git
+   git clone https://github.com/Nguyen-Vu-Luan/WinFormsContactManager.git
    ```
 2. Mở bằng **Visual Studio 2022**.
 3. Chọn **Build → Run (F5)** để chạy chương trình.
