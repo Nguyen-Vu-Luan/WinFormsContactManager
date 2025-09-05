@@ -1,0 +1,14 @@
+C:\Users\luann\Downloads\WinFormsContactManager_UIRedesigned\WinFormsContactManager\obj\Debug\net6.0-windows\WinFormsContactManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luann\Downloads\WinFormsContactManager_UIRedesigned\WinFormsContactManager\obj\Debug\net6.0-windows\WinFormsContactManager.AssemblyInfoInputs.cache
+C:\Users\luann\Downloads\WinFormsContactManager_UIRedesigned\WinFormsContactManager\obj\Debug\net6.0-windows\WinFormsContactManager.AssemblyInfo.cs
+C:\Users\luann\Downloads\WinFormsContactManager_UIRedesigned\WinFormsContactManager\obj\Debug\net6.0-windows\WinFormsContactManager.csproj.CoreCompileInputs.cache
+C:\Users\luann\Downloads\WinFormsContactManager_UIRedesigned\WinFormsContactManager\bin\Debug\net6.0-windows\WinFormsContactManager.exe
+C:\Users\luann\Downloads\WinFormsContactManager_UIRedesigned\WinFormsContactManager\bin\Debug\net6.0-windows\WinFormsContactManager.deps.json
+C:\Users\luann\Downloads\WinFormsContactManager_UIRedesigned\WinFormsContactManager\bin\Debug\net6.0-windows\WinFormsContactManager.runtimeconfig.json
+C:\Users\luann\Downloads\WinFormsContactManager_UIRedesigned\WinFormsContactManager\bin\Debug\net6.0-windows\WinFormsContactManager.dll
+C:\Users\luann\Downloads\WinFormsContactManager_UIRedesigned\WinFormsContactManager\bin\Debug\net6.0-windows\WinFormsContactManager.pdb
+C:\Users\luann\Downloads\WinFormsContactManager_UIRedesigned\WinFormsContactManager\obj\Debug\net6.0-windows\WinFormsContactManager.dll
+C:\Users\luann\Downloads\WinFormsContactManager_UIRedesigned\WinFormsContactManager\obj\Debug\net6.0-windows\refint\WinFormsContactManager.dll
+C:\Users\luann\Downloads\WinFormsContactManager_UIRedesigned\WinFormsContactManager\obj\Debug\net6.0-windows\WinFormsContactManager.pdb
+C:\Users\luann\Downloads\WinFormsContactManager_UIRedesigned\WinFormsContactManager\obj\Debug\net6.0-windows\WinFormsContactManager.genruntimeconfig.cache
+C:\Users\luann\Downloads\WinFormsContactManager_UIRedesigned\WinFormsContactManager\obj\Debug\net6.0-windows\ref\WinFormsContactManager.dll
